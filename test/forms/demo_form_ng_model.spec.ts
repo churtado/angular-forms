@@ -1,4 +1,4 @@
-import {
+/*import {
   TestBed,
   fakeAsync,
   inject
@@ -35,3 +35,4 @@ describe('DemoFormNgModel', () => {
     expect(el.querySelector('.ui.error.message')).toBeNull();
   }));
 });
+*/
